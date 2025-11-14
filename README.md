@@ -85,4 +85,6 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 ------------------------
 
-Este proyecto es un template. ¡Recuerda rellenar el contenido de src/App.js con tu información profesional!
+Este proyecto es un template. 
+
+¡Recuerda rellenar el contenido de src/App.js con tu información profesional!
