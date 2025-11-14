@@ -36,7 +36,7 @@ Sigue estos pasos para clonar el repositorio y ejecutar el proyecto en tu máqui
 
 
 1. Clonar el Repositorio
-git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/tu-usuario/nombre-del-repositorio.git)
+git clone [[https://github.com/gonzalolater/CV_Template_Sergio_Torres](https://github.com/gonzalolater/CV_Template_Sergio_Torres)]
 
 ```bash
 cd CV
