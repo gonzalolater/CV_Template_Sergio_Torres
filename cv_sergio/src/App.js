@@ -44,15 +44,15 @@ function App() {
       <header style={contactInfoStyle}>
         <h1 style={{ margin: "0 0 10px 0", fontSize: "2em" }}>
           {/* RELLENAR: Tu Nombre Completo */}
-          Sergio Torres - Quimico Programador
+          Sergio Roberto Torres - Quimico, segurito y Programador
         </h1>
         <p style={{ margin: "0" }}>
           {/* RELLENAR: Título Profesional o Puesto Deseado */}
-          Licenciado en seguridad e higiene laboral | phyton + n8n | Desarrollador
+          Tec Quimico | Tecnico superior en seguridad e higiene laboral | phyton + n8n | Desarrollador
         </p>
         <p style={{ margin: "5px 0 0 0", fontSize: "0.9em" }}>
           {/* RELLENAR: Email | Teléfono | LinkedIn | GitHub | Portfolio */}
-          email@ejemplo.com | +54 9 11 XXXX-XXXX | linkedin.com/in/tuperfil
+          sergiot1972@hotmail.com | +54 9 11 2489-1043 | linkedin.com/in/tuperfil
         </p>
       </header>
 
@@ -61,11 +61,10 @@ function App() {
         <h2 style={sectionTitleStyle}>Resumen Profesional</h2>
         <p>
           {/* RELLENAR: Breve resumen que destaca tus habilidades clave */}
-          Ingeniero de software Full Stack especializado en desarrollo **Web 2 &
-          3**, certificado en Ethereum (Alchemy) y con experiencia en
-          ecosistemas **Polygon**, **Algorand** y **Chainlink**. Experiencia en
-          metodologías **Agile** y conocimientos en **Microsoft Azure IA** y
-          **Ciberseguridad**.
+          Tecnico Quimico, y Tecnico superior en seg & Hig, poseo mas de 32 años en las areas 
+          de control y gestion de Calidad como responsable de sector, poseo experiencia
+          en el area informatica como programador y especialista en office.
+          Acualmente capacitandome en Programacion Python y N8N
         </p>
       </section>
 
@@ -75,7 +74,7 @@ function App() {
         <article style={{ marginBottom: "15px" }}>
           <div style={itemHeaderStyle}>
             {/* RELLENAR: Puesto - Empresa */}
-            Full Stack Developer - Empresa XYZ
+            Especialista en Gestion de la Calidad / sistemas /seg & hig - Empresa PlaycoS SA
           </div>
           <div
             style={{
@@ -85,7 +84,7 @@ function App() {
             }}
           >
             {/* RELLENAR: Fechas y Ubicación */}
-            Enero 2023 - Presente | Remoto
+            Julio 2024 - Presente | Presencial
           </div>
           <ul style={{ paddingLeft: "20px", margin: "0" }}>
             <li>
