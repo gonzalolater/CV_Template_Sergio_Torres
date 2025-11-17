@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[🚀 Ver CV en Vivo (Netlify)](https://cvte.netlify.app/)
+[🚀 Ver CV en Vivo (Netlify)](cv-sergio-torres.netlify.app)
 
 Este repositorio contiene un *template* de Curriculum Vitae desarrollado con **React.js**. Está diseñado para ser un sitio web estático y fácilmente desplegable, ideal para desarrolladores Full Stack y Web3 que deseen presentar sus habilidades de forma interactiva y profesional.
 
@@ -39,19 +39,22 @@ Sigue estos pasos para clonar el repositorio y ejecutar el proyecto en tu máqui
 git clone [[https://github.com/gonzalolater/CV_Template_Sergio_Torres](https://github.com/gonzalolater/CV_Template_Sergio_Torres)]
 
 ```bash
-cd CV
+cd cv_sergio
 
 2. Instalación de Dependencias
 
 Utiliza npm para instalar todas las dependencias necesarias:
 
 ```bash
+
 npm install
 
 3. Ejecutar la Aplicación
+
 Inicia el servidor de desarrollo. La aplicación estará disponible en http://localhost:3000.
 
 ```bash
+
 npm start
 
 -------------------------------------------------
@@ -66,6 +69,7 @@ Aquí debes reemplazar el texto de relleno con tu propia experiencia, educación
 netlify.toml: Archivo de configuración para el despliegue automático en Netlify.
 
 🚀 Despliegue Automático con Netlify
+
 Este proyecto incluye un archivo netlify.toml que automatiza el proceso de build y despliegue.
 
 Crea una cuenta en Netlify.
