@@ -84,7 +84,7 @@ function App() {
             }}
           >
             {/* RELLENAR: Fechas y Ubicación */}
-            Julio 2324 - Presente | Presencial
+            Julio 2025 - Presente | Presencial
           </div>
           <ul style={{ paddingLeft: "20px", margin: "0" }}>
             <li>
