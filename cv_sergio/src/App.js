@@ -44,19 +44,11 @@ function App() {
       <header style={contactInfoStyle}>
         <h1 style={{ margin: "0 0 10px 0", fontSize: "2em" }}>
           {/* RELLENAR: Tu Nombre Completo */}
-<<<<<<< HEAD
           Sergio Roberto Torres - Quimico, segurito y Programador
         </h1>
         <p style={{ margin: "0" }}>
           {/* RELLENAR: Título Profesional o Puesto Deseado */}
           Tec Quimico | Tecnico superior en seguridad e higiene laboral | phyton + n8n | Desarrollador
-=======
-          Sergio Roberto Torres - Quimico | Seg & Hig | Programador
-        </h1>
-        <p style={{ margin: "0" }}>
-          {/* RELLENAR: Título Profesional o Puesto Deseado */}
-          Tecnico Quimico | Tecnico en Seg & Hig | phyton + n8n | Desarrollador
->>>>>>> e7a6076f0d1e2aca1b9e8f43251f59f62d10c47a
         </p>
         <p style={{ margin: "5px 0 0 0", fontSize: "0.9em" }}>
           {/* RELLENAR: Email | Teléfono | LinkedIn | GitHub | Portfolio */}
@@ -69,17 +61,10 @@ function App() {
         <h2 style={sectionTitleStyle}>Resumen Profesional</h2>
         <p>
           {/* RELLENAR: Breve resumen que destaca tus habilidades clave */}
-<<<<<<< HEAD
           Tecnico Quimico, y Tecnico superior en seg & Hig, poseo mas de 32 años en las areas 
           de control y gestion de Calidad como responsable de sector, poseo experiencia
           en el area informatica como programador y especialista en office.
           Acualmente capacitandome en Programacion Python y N8N
-=======
-          Poseo mas de 30 Años en Control y Gestion de la calidad
-          como responsable de los sectores y como responsable de seg & Hig
-          En el area informatica como especialista en paq Office y programador
-          Actualmente capacitandome en programacion Python y N8N.
->>>>>>> e7a6076f0d1e2aca1b9e8f43251f59f62d10c47a
         </p>
       </section>
 
@@ -89,11 +74,7 @@ function App() {
         <article style={{ marginBottom: "15px" }}>
           <div style={itemHeaderStyle}>
             {/* RELLENAR: Puesto - Empresa */}
-<<<<<<< HEAD
             Especialista en Gestion de la Calidad / sistemas /seg & hig - Empresa PlaycoS SA
-=======
-            Jefe de calidad - Empresa: Playco SA
->>>>>>> e7a6076f0d1e2aca1b9e8f43251f59f62d10c47a
           </div>
           <div
             style={{
@@ -130,12 +111,12 @@ function App() {
           <strong style={{ display: "block", marginBottom: "5px" }}>
             Analista de laboratorio:
           </strong>{" "}
-          analisis de materias primas, aguas y productos terminados.
+          analisis fisico quimico de materias primas, aguas y productos terminados.
           <br />
           <strong style={{ display: "block", marginBottom: "5px" }}>
             Seguridad e higiene:
           </strong>{" "}
-          Conocimiento de seguridad en productos quimicos.
+          Conocimiento de seguridad en trasnporte y manipulacion de productos quimicos.
           <br />
           <strong style={{ display: "block", marginBottom: "5px" }}>
             Informatica:
@@ -154,7 +135,7 @@ function App() {
           </div>
           <div style={{ fontStyle: "italic", fontSize: "0.9em" }}>
             {/* RELLENAR: Año de Graduación */}
-            2024
+            1992
           </div>
         </article>
         {/* DUPLICAR EL <article> PARA MÁS EDUCACIÓN */}
