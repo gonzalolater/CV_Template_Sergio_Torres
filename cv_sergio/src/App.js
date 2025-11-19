@@ -44,15 +44,15 @@ function App() {
       <header style={contactInfoStyle}>
         <h1 style={{ margin: "0 0 10px 0", fontSize: "2em" }}>
           {/* RELLENAR: Tu Nombre Completo */}
-          Sergio Roberto Torres - Quimico | Seg & Hig | Programador
+          Sergio Roberto Torres - Quimico, segurito y Programador
         </h1>
         <p style={{ margin: "0" }}>
           {/* RELLENAR: Título Profesional o Puesto Deseado */}
-          Tecnico Quimico | Tecnico en Seg & Hig | phyton + n8n | Desarrollador
+          Tec Quimico | Tecnico superior en seguridad e higiene laboral | phyton + n8n | Desarrollador
         </p>
         <p style={{ margin: "5px 0 0 0", fontSize: "0.9em" }}>
           {/* RELLENAR: Email | Teléfono | LinkedIn | GitHub | Portfolio */}
-          sergiot1972@hotmail.com | +54 9 11 2489-1043 | linkedin.com/in/tuperfil
+          sergiot1972@hotmail.com | +54 9 11 2489-1043 
         </p>
       </header>
 
@@ -61,10 +61,10 @@ function App() {
         <h2 style={sectionTitleStyle}>Resumen Profesional</h2>
         <p>
           {/* RELLENAR: Breve resumen que destaca tus habilidades clave */}
-          Poseo mas de 30 Años en Control y Gestion de la calidad
-          como responsable de los sectores y como responsable de seg & Hig
-          En el area informatica como especialista en paq Office y programador
-          Actualmente capacitandome en programacion Python y N8N.
+          Tecnico Quimico, y Tecnico superior en seg & Hig, poseo mas de 32 años en las areas 
+          de control y gestion de Calidad como responsable de sector, poseo experiencia
+          en el area informatica como programador y especialista en office.
+          Acualmente capacitandome en Programacion Python y N8N
         </p>
       </section>
 
@@ -74,7 +74,7 @@ function App() {
         <article style={{ marginBottom: "15px" }}>
           <div style={itemHeaderStyle}>
             {/* RELLENAR: Puesto - Empresa */}
-            Jefe de calidad - Empresa: Playco SA
+            Especialista en Gestion de la Calidad / sistemas /seg & hig - Empresa PlaycoS SA
           </div>
           <div
             style={{
@@ -84,20 +84,20 @@ function App() {
             }}
           >
             {/* RELLENAR: Fechas y Ubicación */}
-            Julio 2025 - Presente | Presencial
+            Julio 2324 - Presente | Presencial
           </div>
           <ul style={{ paddingLeft: "20px", margin: "0" }}>
             <li>
-              {/* RELLENAR: Responsabilidad/Logro 1 */}Desarrollo y
-              responsable de calidad y gestion y mantenimiento de sistemas.
+              {/* RELLENAR: Responsabilidad/Logro 1 */}Responsable 
+              en los sectores de control de calidad y gestion de calidad
             </li>
             <li>
               {/* RELLENAR: Responsabilidad/Logro 2 */}Implementación de
-              contratos inteligentes en **Ethereum** y **Polygon**.
+              Control de seguridad e higiene de laboratorios **COSMETICOS**.
             </li>
             <li>
-              {/* RELLENAR: Responsabilidad/Logro 3 */}Integración con servicios
-              de **Chainlink** para datos *on-chain*.
+              {/* RELLENAR: Responsabilidad/Logro 3 */}Responsable del
+              sector sistema informaticos de la empresa*.
             </li>
           </ul>
         </article>
@@ -109,20 +109,19 @@ function App() {
         <h2 style={sectionTitleStyle}>Habilidades</h2>
         <p>
           <strong style={{ display: "block", marginBottom: "5px" }}>
-            Web/Blockchain:
+            Analista de laboratorio:
           </strong>{" "}
-          React.js, JavaScript (ES6+), HTML, CSS, Node.js, Ethereum (Solidity),
-          Polygon, Algorand, Chainlink, DeFi, Web3.js, Ethers.js.
+          analisis fisico quimico de materias primas, aguas y productos terminados.
           <br />
           <strong style={{ display: "block", marginBottom: "5px" }}>
-            Cloud/IA/Seguridad:
+            Seguridad e higiene:
           </strong>{" "}
-          Microsoft Azure IA, Microsoft Cybersecurity, Docker, Git.
+          Conocimiento de seguridad en trasnporte y manipulacion de productos quimicos.
           <br />
           <strong style={{ display: "block", marginBottom: "5px" }}>
-            Metodologías:
+            Informatica:
           </strong>{" "}
-          Agile, Scrum, Coaching.
+          Especialista en Office.
         </p>
       </section>
 
@@ -132,11 +131,11 @@ function App() {
         <article>
           <div style={itemHeaderStyle}>
             {/* RELLENAR: Nombre del Título - Institución */}
-            Oficial Alchemy Certified Ethereum Developer - Alchemy University
+            Titulo de tecnico quimico Industrial 
           </div>
           <div style={{ fontStyle: "italic", fontSize: "0.9em" }}>
             {/* RELLENAR: Año de Graduación */}
-            2024
+            1992
           </div>
         </article>
         {/* DUPLICAR EL <article> PARA MÁS EDUCACIÓN */}
